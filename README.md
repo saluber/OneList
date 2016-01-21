@@ -1,2 +1,2 @@
-# OneList
-A simple TODO List app a la Universal Windows Platform
+# OneTODO
+A universal task management app a la Universal Windows Platform
